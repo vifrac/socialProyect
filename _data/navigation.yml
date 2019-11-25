@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Noticias"
+  # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Guias - Trámites"
+  # url: /about/
+  - title: "Convocatorias"
+  #   url: /year-archive/
+  - title: "Cursos de formación"
+  #   url: /collection-archive/
+  - title: "Servicios"
+  #   url: /sitemap/
+  - title: "Contactanos"
+  #   url: /sitemap/
