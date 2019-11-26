@@ -3,7 +3,7 @@ main:
   - title: "Noticias"
   # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Guias - Trámites"
-  # url: /about/
+    url: /guia/
   - title: "Convocatorias"
     url: /convocatorias/
   - title: "Cursos de formación"
