@@ -5,11 +5,10 @@ main:
   - title: "Guias - Trámites"
   # url: /about/
   - title: "Convocatorias"
-  #   url: /year-archive/
+    url: /convocatorias/
   - title: "Cursos de formación"
-  #   url: /collection-archive/
+    # url: /collection-archive/
   - title: "Servicios"
-  #   url: /sitemap/
+    # url: /sitemap/
   - title: "Contactanos"
     url: /about/
-  #   url: /sitemap/
