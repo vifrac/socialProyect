@@ -7,7 +7,7 @@ main:
   - title: "Convocatorias"
     url: /convocatorias/
   - title: "Cursos de formación"
-    # url: /collection-archive/
+    url: /formacion/
   - title: "Servicios"
     # url: /sitemap/
   - title: "Contactanos"
