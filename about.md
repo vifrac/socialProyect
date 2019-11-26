@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Somos un grupo de estudiantes de la Universidad La Gran Colombia con el proposito de desarrolar un proyecto social que impacte con mejores condiciones laborales a la poblacion de vendedores ambulantes de la localidad de Fontibon, buscamos centralizar informacion de interes para las personas que se dedican a la venta ambulante.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+En este sitio web encontrara información sobre oportunidades laborales, de educación, convocatorias de financiamineto y emprendimiento, estrategias para insentivar el correcto uso del espacio público, información sobre Políticas públicas que atañen a la poblacion de vendedores ambulantes
 
 
-[jekyll-organization]: https://github.com/jekyll
+Grupo de trabajo:
+
+[Angie Sánchez](https://www.vifrac.com/)
+[Víctor Franco](https://www.vifrac.com/)
+[Kevin Ballesteros](https://www.vifrac.com/)
+[Myriam Hernández](https://www.vifrac.com/)
+[Andrés Junco](https://www.vifrac.com/)
+[Andrés Fúquene](https://www.vifrac.com/)
+[Orlando Sierra](https://www.vifrac.com/)
