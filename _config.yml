@@ -111,7 +111,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Victor Franco"
+  name             : "UGC"
   avatar           : "/assets/images/ambulante_128x128.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Este es un Sitio WEB como Proyecto Social, busca apoyar a la comunidad de vendedores ambulantes a encontrar información que pueda se de utilidad para mejorar sus condiciones laborales."
   location         : "Bogotá - Colombia"
