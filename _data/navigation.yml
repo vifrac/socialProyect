@@ -9,6 +9,6 @@ main:
   - title: "Cursos de formación"
     url: /formacion/
   - title: "Servicios"
-    # url: /sitemap/
+    url: /servicios/
   - title: "Contactanos"
     url: /about/
